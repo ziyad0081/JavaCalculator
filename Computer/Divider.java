@@ -1,3 +1,5 @@
+package Computer;
+
 public class Divider extends Computer {
     @Override
     public double compute(double A, double B) {
